@@ -1,10 +1,16 @@
-# Zion AI Accessibility Fixer
+# 🌐 Zion App Network — Interlinks
 
-Automated accessibility remediation.
+**zion-ai-accessibility-fixer** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-accessibility-auditor](https://github.com/Zion-support/zion-ai-accessibility-auditor) · [ai-accessibility-auditor](https://github.com/Zion-support/ai-accessibility-auditor) · [accessibility-checker](https://github.com/Zion-support/accessibility-checker)
+- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [zion-ai-docs-doctor](https://github.com/Zion-support/zion-ai-docs-doctor) — stale-docs detection & fix PRs
+- [zion-ai-code-migrator](https://github.com/Zion-support/zion-ai-code-migrator) — legacy code modernization
+- [zion-ai-dependency-lifeguard](https://github.com/Zion-support/zion-ai-dependency-lifeguard) — supply-chain risk & auto-upgrade PRs
+- [k8s-yaml-linter](https://github.com/Zion-support/k8s-yaml-linter) — Kubernetes misconfig linter
+- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
